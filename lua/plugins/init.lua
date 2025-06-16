@@ -25,7 +25,7 @@ return {
         "rust",
         "go",
         "c",
-        "nix"
+        "nix",
         "html", "css"
    		},
    	},
