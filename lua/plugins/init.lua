@@ -21,6 +21,11 @@ return {
    	opts = {
    		ensure_installed = {
    			"vim", "lua", "vimdoc",
+        "python",
+        "rust",
+        "go",
+        "c",
+        "nix"
         "html", "css"
    		},
    	},
